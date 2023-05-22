@@ -3,6 +3,9 @@
 This is a music app with play , pause , next , previous functionality 
 
 <img src="./assets/1684768135431.jpg" />
+<img src="./assets/1684768135481.jpg" />
+<img src="./assets/1684768135428.jpg" />
+<img src="./assets/1684768135456.jpg" />
 
 It includes the following: 
 
