@@ -2,7 +2,7 @@
 
 This is a music app with play , pause , next , previous functionality 
 
-<img src="G:\native\music-app\assets\1684768135431.jpg" />
+<img src="./assets/1684768135431.jpg" />
 
 It includes the following: 
 
