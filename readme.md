@@ -19,5 +19,5 @@ Technology : expo , expo av for audio control , toastify , asyncstorage , icons 
 
 
 ### for run the project 
- - npm init 
+ - npm i
  - expo start
